@@ -17,4 +17,3 @@ plt.plot(arrivalRate, expecQueue)
 plt.xlabel("Arrival Rate")
 plt.ylabel("Expected Queue Delay")
 plt.show()
-
